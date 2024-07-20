@@ -1,2 +1,2 @@
 # TESTE
-teste conexão ssh do notebook e githun
+teste conexão ssh do notebook e github
